@@ -15,7 +15,7 @@ class Development(Config):
 
   # create any PostgreSQL database.
   # I recommend to use elephantsql and paste that link here
-  DB_URI = "Your value"
+  DB_URI = "postgres://oaykvtmj:bsIGPV7wmId1x1CNH9eqxQVX5t25cHI3@manny.db.elephantsql.com/oaykvtmj"
 
   # After cloning the repo and installing requirements...
   # Do python string_session.py and fill the on screen prompts.
