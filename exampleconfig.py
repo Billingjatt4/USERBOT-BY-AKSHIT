@@ -21,7 +21,7 @@ class Development(Config):
   # Do python string_session.py and fill the on screen prompts.
   # String session will be saved in your saved message of telegram.
   # Put that string here.
-  AKSHIT_STRING = "Your value"
+  AKSHIT_STRING = "1BZWaqwUAUD43K5aIkXqPBYANp7MOkRB81TplGCA85UrUjc-_CIuB7Cu92H8QudHb5ledoQhn66Hf5FEVpuNV4B7foaGjIOyuzA154wLhf79nFH5nDAr63qVu21TUaeRSQ39IGtmg4mqdd1TPwcDZocG6qnY8uJAsLHDYArvTzblNBJxL4dybniOvYhMaWtHc38Pi6AJdXjrkHM2SATQmaP7psmJQ9xdYKLruPmpH7Jl9FDAzpclUY25NV2YXpO5YhLSNJQOv6tPldqrTS-7R7Xp2EzBxJS4Joodc8NRymg_8HRIYs7n39PvZJwRVt1uwnSoCZ0snrdNOvVLnu_guQWDf0e0Uq2k="
 
   # Create a bot in @botfather and fill the following values with bot token and username.
   BOT_TOKEN = "Your value" #token
