@@ -6,8 +6,8 @@ from sample_config import Var
 class Development(Config):
   # get this values from my.telegram.org. 
   # 6 is just a placeholder. Fill your own api id & hash.
-  APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+  APP_ID = 25742938
+  API_HASH = "b35b715fe8dc0a58e8048988286fc5b6"
 
   # the name to display in your alive message.
   # If not filled anything then default value is LEGEND User.
@@ -24,8 +24,8 @@ class Development(Config):
   AKSHIT_STRING = "1BZWaqwUAUD43K5aIkXqPBYANp7MOkRB81TplGCA85UrUjc-_CIuB7Cu92H8QudHb5ledoQhn66Hf5FEVpuNV4B7foaGjIOyuzA154wLhf79nFH5nDAr63qVu21TUaeRSQ39IGtmg4mqdd1TPwcDZocG6qnY8uJAsLHDYArvTzblNBJxL4dybniOvYhMaWtHc38Pi6AJdXjrkHM2SATQmaP7psmJQ9xdYKLruPmpH7Jl9FDAzpclUY25NV2YXpO5YhLSNJQOv6tPldqrTS-7R7Xp2EzBxJS4Joodc8NRymg_8HRIYs7n39PvZJwRVt1uwnSoCZ0snrdNOvVLnu_guQWDf0e0Uq2k="
 
   # Create a bot in @botfather and fill the following values with bot token and username.
-  BOT_TOKEN = "Your value" #token
-  BOT_USERNAME = "Your value" #username
+  BOT_TOKEN = "7737579995:AAHzTgISMQhZuEasuOBEm6aTn5mqes-f0aQ" #token
+  BOT_USERNAME = "badmunda" #username
 
   # Create a private group and add rose bot to it.
   # and type /id and paste that id here.
