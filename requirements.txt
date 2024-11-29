@@ -75,7 +75,6 @@ PyGithub
 pygments
 pymediainfo
 patool
-psycopg2
 psycopg2-binary
 PyPDF2
 prettytable
